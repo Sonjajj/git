@@ -1,4 +1,4 @@
-- pasta
+- pastaa
 - tomaatti
 - leipä
 - maito
