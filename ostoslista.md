@@ -2,3 +2,4 @@
 - tomaatti
 - leipä
 - maito
+- salado
