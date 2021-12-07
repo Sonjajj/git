@@ -3,3 +3,5 @@
 - leipä
 - maito
 - salado
+- karkkii
+- sipsii
